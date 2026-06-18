@@ -1,39 +1,44 @@
-### 👋 Hello World, I'm Adekola David
-
-**Operations Specialist & Developer bridging system architecture and creative craft.**
-
-I build digital experiences and automated infrastructure, focusing on high-fidelity design, complex workflow resolutions, and localized technology solutions.
-
-* 🔭 I’m currently working on **automated ticketing systems and telematics infrastructure**
-* 🌱 I’m currently expanding my stack with **Go and Dart/Flutter**
-* 🏗️ I primarily build with **Next.js, Tailwind CSS, and JavaScript**
-* 💻 My portfolio is live at [adekola-david.vercel.app](https://adekola-david.vercel.app/)
-* ⚡ Fun fact: I am on a mission to completely eradicate the use of manual spreadsheets.
-
----
-
-### 🛠️ Somethings I work with
-
-<!-- This automatically generates beautiful icons for your stack -->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,tailwind,react,git,github,go,dart,flutter,vercel,vscode" />
-  </a>
-</p>
-
----
-
-### 📊 System Stats
-
-<!-- Live GitHub Stats linked to AdekolaDavid -->
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdekolaDavid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=3b82f6&text_color=ffffff" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdekolaDavid&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=3b82f6&text_color=ffffff" height="150" alt="Top Languages" />
+<div align="center">
+  <h1 align="center">ADEKOLA DAVID</h1>
+  <h3 align="center">Operations Specialist & Developer</h3>
+  <p align="center">
+    Bridging the gap between <b>system architecture</b> and <b>creative craft</b>.
+  </p>
 </div>
 
 <br/>
 
-<!-- Live Contribution Streak linked to AdekolaDavid -->
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdekolaDavid&theme=tokyonight&hide_border=true&background=050505&ring=3b82f6&fire=3b82f6&currStreakLabel=ffffff" alt="GitHub Streak" />
+### ⚡ CURRENT DIRECTIVES
+
+- 🔭 **Current Protocol:** Engineering automated ticketing systems and telematics infrastructure.
+- 🌱 **Tech Expansion:** Integrating **Go** and **Dart/Flutter** into the stack.
+- 🏗️ **Core Stack:** Next.js, Tailwind CSS, JavaScript.
+- ⚡ **Primary Mission:** The complete eradication of manual spreadsheets.
+- 💻 **Live Architecture:** [adekola-david.vercel.app](https://adekola-david.vercel.app/)
+
+<br/>
+
+### 🛠️ SYSTEM STACK
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,tailwind,react,git,github,go,dart,flutter,vercel,vscode&theme=dark" />
+  </a>
+</div>
+
+<br/>
+
+### 📊 TELEMETRY & STATS
+
+<!-- Stats and Languages aligned side-by-side -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdekolaDavid&show_icons=true&hide_border=true&bg_color=000000&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&font=mono" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdekolaDavid&layout=compact&hide_border=true&bg_color=000000&title_color=3b82f6&text_color=ffffff&font=mono" height="165" alt="Top Languages" />
+</div>
+
+<br/>
+
+<!-- Live Contribution Wave Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdekolaDavid&bg_color=000000&color=ffffff&line=3b82f6&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
