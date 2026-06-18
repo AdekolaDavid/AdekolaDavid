@@ -8,17 +8,17 @@
 
 <br/>
 
-### ⚡ CURRENT DIRECTIVES
+### <img src="https://api.iconify.design/lucide/terminal-square.svg?color=%233b82f6" width="22" /> CURRENT DIRECTIVES
 
-- 🔭 **Current Protocol:** Engineering automated ticketing systems and telematics infrastructure.
-- 🌱 **Tech Expansion:** Integrating **Go** and **Dart/Flutter** into the stack.
-- 🏗️ **Core Stack:** Next.js, Tailwind CSS, JavaScript.
-- ⚡ **Primary Mission:** The complete eradication of manual spreadsheets.
-- 💻 **Live Architecture:** [adekola-david.vercel.app](https://adekola-david.vercel.app/)
+- <img src="https://api.iconify.design/lucide/crosshair.svg?color=%233b82f6" width="16" /> **Current Protocol:** Engineering automated ticketing systems and telematics infrastructure.
+- <img src="https://api.iconify.design/lucide/cpu.svg?color=%233b82f6" width="16" /> **Tech Expansion:** Integrating **Go** and **Dart/Flutter** into the stack.
+- <img src="https://api.iconify.design/lucide/layers.svg?color=%233b82f6" width="16" /> **Core Stack:** Next.js, Tailwind CSS, JavaScript.
+- <img src="https://api.iconify.design/lucide/zap.svg?color=%233b82f6" width="16" /> **Primary Mission:** The complete eradication of manual spreadsheets.
+- <img src="https://api.iconify.design/lucide/globe.svg?color=%233b82f6" width="16" /> **Live Architecture:** [adekola-david.vercel.app](https://adekola-david.vercel.app/)
 
 <br/>
 
-### 🛠️ SYSTEM STACK
+### <img src="https://api.iconify.design/lucide/wrench.svg?color=%233b82f6" width="22" /> SYSTEM STACK
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -28,7 +28,7 @@
 
 <br/>
 
-### 📊 TELEMETRY & STATS
+### <img src="https://api.iconify.design/lucide/activity.svg?color=%233b82f6" width="22" /> TELEMETRY & STATS
 
 <!-- Stats and Languages aligned side-by-side -->
 <div align="center">
