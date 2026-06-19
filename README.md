@@ -3,6 +3,9 @@
   <h3>Operations Specialist & Developer bridging system architecture and creative craft.</h3>
   <p>Resolving complex workflows. Localized solutions. Pure code.</p>
   <p><em>Just a heads up: I lost my old repo, which is why this one looks a bit bare right now :)</em></p>
+  
+  <!-- INJECTED PORTFOLIO LINK -->
+  <p>💻 <b>Live Architecture: <a href="https://adekola-david.vercel.app/">adekola-david.vercel.app</a></b></p>
 </div>
 
 <br/>
