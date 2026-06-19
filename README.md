@@ -4,14 +4,14 @@
   <p>Resolving complex workflows. Localized solutions. Pure code.</p>
   <p><em>Just a heads up: I lost my old repo, which is why this one looks a bit bare right now :)</em></p>
   
-  <!-- INJECTED PORTFOLIO LINK -->
-  <p>💻 <b>Live Architecture: <a href="https://adekola-david.vercel.app/">adekola-david.vercel.app</a></b></p>
+ 
+  <p>💻 <b>Check Live Portfolio out: <a href="https://adekola-david.vercel.app/">adekola-david.vercel.app</a></b></p>
 </div>
 
 <br/>
 
-<!-- THE CENTRAL GLITCH ASSET -->
-<!-- Pulling from raw.githubusercontent to bypass the web interface wrapper -->
+<!-- MY CENTRAL GLITCH ASSET -->
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/AdekolaDavid/AdekolaDavid/main/MOSHED-2026-6-15-23-28-45.gif" width="350" alt="Adekola Glitch Avatar" />
 </div>
@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-<!-- System Stack - Comprehensive, centered grid -->
+<!-- System Stack grid -->
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,nextjs,tailwind,react,git,github,vscode,vercel,go,flutter,dart&perline=6&theme=dark" width="600" />
@@ -29,7 +29,7 @@
 <br/>
 <br/>
 
-<!-- GitHub Stats Title - Centered -->
+<!-- GitHub Stats Title -->
 <div align="center">
   <h2 align="center">GH STATS:</h2>
 </div>
@@ -54,7 +54,7 @@
 <br/>
 <br/>
 
-<!-- Live Contribution Wave Graph - Themed for colorful design -->
+<!-- Live Contribution Wave Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdekolaDavid&bg_color=000000&color=ffffff&line=ec4899&point=ffffff&area=true&hide_border=true&font=mono" width="100%" alt="Activity Graph" />
 </div>
