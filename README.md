@@ -1,7 +1,7 @@
 <div align="center">
   <h1>ADEKOLA DAVID</h1>
   <h3>Operations Specialist & Developer bridging system architecture and creative craft.</h3>
-  <p>Resolving complex workflows. Localized solutions. Pure code.</p>
+  <p>Just a heads up: I lost my old repo, which is why this one looks a bit bare right now :)</p>
 </div>
 
 <br/>
