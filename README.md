@@ -5,7 +5,7 @@
   <p><em>Just a heads up: I lost my old repo, which is why this one looks a bit bare right now :)</em></p>
   
  
-  <p>💻 <b>Check Live Portfolio out: <a href="https://adekola-david.vercel.app/">adekola-david.vercel.app</a></b></p>
+  <p>💻 <b>Check my live portfolio out: <a href="https://adekola-david.vercel.app/">adekola-david.vercel.app</a></b></p>
 </div>
 
 <br/>
